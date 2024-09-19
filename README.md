@@ -2,7 +2,7 @@
 
 
 <p>Welcome to my page! </br> I'm Maja, a Computer Engineering student from Poland currently studyung at Michigan Tech </p>
-<h3>Things I code with</h3>
+<h3>Things I work with</h3>
 
 [![SkillIcons](https://skillicons.dev/icons?i=cs,dotnet,java,git,github,bitbucket,eclipse,gitlab,visualstudio,azure,matlab,js,html,css,figma&theme=light)](https://skillicons.dev)<br/>
 
